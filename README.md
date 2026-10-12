@@ -55,4 +55,4 @@ Get-FileHash -Path .\WinCBT_v4.0_Universal_Release.apk -Algorithm SHA256
 
 ---
 
-&copy; Tim Pengembang WinCBT &mdash; Solusi CBT Handal, Anti-Bug & Gratis untuk Pendidikan.
+&copy; Tim Pengembang WinCBT &mdash; SMK Pratiwi Prabumulih.
