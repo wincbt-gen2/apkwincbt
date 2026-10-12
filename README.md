@@ -1,6 +1,6 @@
 # WinCBT v4.0 Universal Release &mdash; Secure Exam Browser
 
-Aplikasi Android Kiosk Client resmi untuk pelaksanaan Asesmen Berbasis Komputer (**WinCBT**). Dirancang khusus untuk menjamin integritas ujian siswa, pencegahan kecurangan berlapis, dan performa tinggi yang ramah gawai (*spektrum luas dari smartphone entry-level hingga flagship*).
+Aplikasi Android Kiosk Client resmi untuk pelaksanaan Asesmen Berbasis Komputer SMK Pratiwi Prabumulih (**WinCBT**).
 
 ---
 
