@@ -35,9 +35,9 @@ Get-FileHash -Path .\WinCBT_v4.0_Universal_Release.apk -Algorithm SHA256
 1. **Hardware Kiosk Mode & Screen Pinning (Semat Layar)**:
    - Mengunci layar secara ketat selama sesi ujian berlangsung.
    - Memblokir tombol navigasi (*Back, Home, Recent Apps*), gesture swipe, dan status bar notification shade.
-2. **Time-Lock Secure & Escalating Penalty Shield ($0 Cloud Cost)**:
-   - Beroperasi 100% *Client-Side* dalam memori terisolasi perangkat (**0 Read & 0 Write Firestore**).
-   - Toleransi Emas 10 Detik (*Gold Grace Period*) untuk gawai yang mengalami kendala teknis atau ketidaksengajaan.
+2. **Time-Lock Secure & Escalating Penalty Shield**:
+   - Beroperasi dalam memori terisolasi.
+   - Toleransi (*Gold Grace Period*) untuk gawai yang mengalami kendala teknis atau ketidaksengajaan.
    - Hukuman bertingkat otomatis jika terjadi pelepasan sematan layar saat ujian aktif.
 3. **MultiGate Architecture**:
    - Mendukung integrasi mulus dengan Web CBT Siswa dan Google Workspace for Education.
