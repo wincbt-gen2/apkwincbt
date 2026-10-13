@@ -7,7 +7,7 @@ Aplikasi Android Kiosk Client resmi untuk pelaksanaan Asesmen Berbasis Komputer 
 ## 🚀 Tautan Unduh Langsung (Direct Download)
 
 * **Berkas APK**: [`WinCBT_v4.0_Universal_Release.apk`](https://github.com/wincbt-gen2/apkwincbt/raw/refs/heads/main/WinCBT_v4.0_Universal_Release.apk)
-* **Ukuran Berkas**: `5.443.361 bytes` (~5.44 MB)
+* **Ukuran Berkas**: `5.443.553 bytes` (~5.44 MB)
 * **Versi Rilis**: `v4.0 Universal Release`
 * **Application ID**: `com.sekolah.wincbt`
 * **Target Kompatibilitas**: Android 8.0 (Oreo / API 26) hingga Android 15+ (Vanilla Ice Cream / API 35)
@@ -20,7 +20,7 @@ Sebelum instalasi, integritas berkas biner dapat diverifikasi menggunakan algori
 
 ```text
 SHA-256 Checksum:
-F76FFCC7C2DEA2BE9EB115E13545620B2C877C29AA3AD87257917445C807DE4B
+D9C911534DB2491361D98AD8FD98B729C3008B939D0BA1D658708A5576423009
 ```
 
 Verifikasi di terminal/PowerShell:
