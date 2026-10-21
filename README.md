@@ -8,9 +8,9 @@ Aplikasi Android Kiosk Client resmi untuk pelaksanaan Asesmen Berbasis Komputer 
 
 * **Berkas APK**: [`WinCBT_v4.0_Universal_Release.apk`](https://github.com/wincbt-gen2/apkwincbt/raw/refs/heads/main/WinCBT_v4.0_Universal_Release.apk)
 * **Berkas AAB (Play Console)**: `WinCBT_v4.0_Universal_Release.aab`
-* **Ukuran Berkas APK**: `5.458.026 bytes` (~5.46 MB)
-* **Ukuran Berkas AAB**: `4.844.146 bytes` (~4.84 MB)
-* **Versi Rilis**: `v4.0.2 Universal Release (Build 4002)`
+* **Ukuran Berkas APK**: `5.457.898 bytes` (~5.46 MB)
+* **Ukuran Berkas AAB**: `4.844.028 bytes` (~4.84 MB)
+* **Versi Rilis**: `v4.0.3 Universal Release (Build 4003)`
 * **Application ID**: `com.sekolah.wincbt`
 * **Target Kompatibilitas**: Android 8.0 (Oreo / API 26) hingga Android 15+ (Vanilla Ice Cream / API 35)
 
@@ -22,10 +22,10 @@ Sebelum instalasi, integritas berkas biner dapat diverifikasi menggunakan algori
 
 ```text
 SHA-256 Checksum (APK):
-708B949AE48374A08043FF00A9B440753E84543D7AC5056F63A53FEF0372B087
+FF05DAE4D53DD61A51262FB9F4041ADD109170FFFBA5B29E1C43C2437A3EEB3C
 
 SHA-256 Checksum (AAB Play Console):
-E659D698C9D46D49786AB34E6A80DBEA24C0324EA20D3A8BE82C3BCD0045FE32
+6D27B45AB5130918CDA378329AA32A10939D5F185958D2B918103189382D3F94
 ```
 
 Verifikasi di terminal/PowerShell:
