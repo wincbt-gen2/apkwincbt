@@ -1,0 +1,6 @@
+# Abaikan berkas web lokal pendukung di folder RELEASE_APK
+webcbt.html
+QRCodeGenerate.html
+webcbt_pengawas.html
+*.tmp
+*.log
